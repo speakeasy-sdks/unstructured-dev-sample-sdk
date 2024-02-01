@@ -159,3 +159,13 @@ Based on:
 - [go v0.10.2] .
 ### Releases
 - [Go v0.10.2] https://github.com/speakeasy-sdks/unstructured-dev-sample-sdk/releases/tag/v0.10.2 - .
+
+## 2024-02-01 00:58:54
+### Changes
+Based on:
+- OpenAPI Doc 1.0.0 
+- Speakeasy CLI 1.161.0 (2.245.1) https://github.com/speakeasy-api/speakeasy
+### Generated
+- [go v0.10.3] .
+### Releases
+- [Go v0.10.3] https://github.com/speakeasy-sdks/unstructured-dev-sample-sdk/releases/tag/v0.10.3 - .
